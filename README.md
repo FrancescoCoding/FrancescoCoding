@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Francesco 👨‍💻
+
+With a strong background in Full-Stack Development and a Computer Science (Hons) degree in progress, I am eager to apply my skills and knowledge to create cutting-edge web applications. I enjoy exploring new technologies and frameworks and finding creative solutions to challenging problems.
+
+### You can find some of these projects in the profile below or my website! :)
+
+## 🔨 My skills include...
+
+- HTML, CSS, JavaScript, TypeScript, C#.
+- React (with Redux), Vue (with Vuex), ASP.NET, Node.js, SQL, MongoDB, Firebase etc.
+- React Native and Android Studio for mobile development.
+- Designing UI/UX looks and data flows.
+- Designing complex systems srchitectures for extra fun.
+
+## 📫 How to reach me...
+
+- Website: https://www.fran-dev.com/
+- LinkedIn: https://www.linkedin.com/in/fran-dev/
+
 
 <!--
 **FrancescoCoding/FrancescoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
