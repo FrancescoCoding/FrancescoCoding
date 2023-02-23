@@ -10,7 +10,7 @@ With a strong background in Full-Stack Development and a Computer Science (Hons)
 - React (with Redux), Vue (with Vuex), ASP.NET, Node.js, SQL, MongoDB, Firebase etc.
 - React Native and Android Studio for mobile development.
 - Designing UI/UX looks and data flows.
-- Designing complex systems srchitectures for extra fun.
+- Designing complex systems' architectures for extra fun.
 
 ## 📫 How to reach me...
 
