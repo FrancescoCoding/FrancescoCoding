@@ -6,7 +6,7 @@ With a strong background in Full-Stack Development and a Computer Science (Hons)
 
 ## 🔨 My skills include...
 
-- HTML, CSS, JavaScript, TypeScript, C#.
+- HTML, CSS, JavaScript, TypeScript, C#, Java, Python.
 - React (with Redux), Vue (with Vuex), ASP.NET, Node.js, SQL, MongoDB, Firebase etc.
 - React Native and Android Studio for mobile development.
 - Designing UI/UX looks and data flows.
