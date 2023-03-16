@@ -6,11 +6,12 @@ With a strong background in Full-Stack Development and a Computer Science (Hons)
 
 ## 🔨 My skills include...
 
-- HTML, CSS, JavaScript, TypeScript, C#, Java, Python.
-- React (with Redux), Vue (with Vuex), ASP.NET, Node.js, SQL, MongoDB, Firebase etc.
-- React Native and Android Studio for mobile development.
-- Designing UI/UX looks and data flows.
-- Designing complex systems' architectures for extra fun.
+- HTML, CSS, JavaScript, TypeScript, C#, Java, Python
+- Advanced React (with Redux), Vue (with Vuex), ASP.NET, Node.js, SQL, MongoDB, Firebase etc.
+- React Native and Android Studio for mobile development
+- Docker, Netlify, Azure, Vercel, Heroku
+- Jira, Slack, Teams, Zoom
+- Designing UI/UX looks, data flows, Figma diagrams, & complex systems' architectures
 
 ## 📫 How to reach me...
 
