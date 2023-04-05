@@ -9,7 +9,7 @@ With a strong background in Full-Stack Development and a Computer Science (Hons)
 - HTML, CSS, JavaScript, TypeScript, C#, Java, Python
 - Advanced React (with Redux), Vue (with Vuex), ASP.NET, Node.js, SQL, MongoDB, Firebase etc.
 - React Native and Android Studio for mobile development
-- Docker, Netlify, Azure, Vercel, Heroku
+- Docker, Netlify, Azure, Vercel, Heroku, CORS ☠️
 - Jira, Slack, Teams, Zoom
 - Designing UI/UX looks, data flows, Figma diagrams, & complex systems' architectures
 
