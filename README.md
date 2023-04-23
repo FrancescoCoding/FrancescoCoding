@@ -1,4 +1,5 @@
 # Hi there, I'm Francesco 👨‍💻
+  <img src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47fpfvq59hnjlyn7xiles4gef7xsflcot3m1lqu7lo&amp;rid=giphy.gif&amp;ct=g" alt="vintage space GIF by US National Archives" style="width: 360px; height: 281.25px; opacity: 0;">
 
 With a strong background in Full-Stack Development and a Computer Science (Hons) degree in progress, I am eager to apply my skills and knowledge to create cutting-edge web applications. I enjoy exploring new technologies and frameworks and finding creative solutions to challenging problems.
 
