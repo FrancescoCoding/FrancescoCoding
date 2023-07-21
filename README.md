@@ -5,9 +5,9 @@ With a strong background in Full-Stack Development and a Computer Science (Hons)
 
 ### You can find some of these projects in the profile below or my website! :)
 
-## 🔨 My skills include...
+## 💻 My skills include...
 
-### Proficient at:
+### Proficient:
 - HTML, CSS, JavaScript, TypeScript, C#, Java, Python, R
 - Advanced React/Redux, Vue/Vuex, ASP.NET (DIP, IoC, DI, EF), Node.js, SQL, MongoDB, Firebase etc.
 - Designing UI/UX, data flows, Figma/Miro diagrams & complex systems' architectures
