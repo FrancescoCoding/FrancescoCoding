@@ -8,9 +8,9 @@ With a strong background in Full-Stack Development and a Computer Science (Hons)
 ## 🔨 My skills include...
 
 - HTML, CSS, JavaScript, TypeScript, C#, Java, Python, R
-- Advanced React (with Redux), Vue (with Vuex), ASP.NET, Node.js, SQL, MongoDB, Firebase etc.
-- ChatGPT - Whisper - Eleven Labs APIs, Prompt Engineering, Dynamic prompting, AI chatbots
+- Advanced React/Redux, Vue/Vuex, ASP.NET (DIP, IoC, DI, EF), Node.js, SQL, MongoDB, Firebase etc.
 - React Native and Android Studio for mobile development
+- ChatGPT - Whisper - Eleven Labs APIs, Prompt Engineering, Dynamic prompting, AI chatbots
 - Azure Portal, Azure DevOps, Docker, Netlify, Vercel, Heroku, CORS ☠️
 - Notion, Jira, Slack, Teams, M365
 - Designing UI/UX looks, data flows, Figma diagrams, & complex systems' architectures
