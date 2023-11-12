@@ -20,7 +20,7 @@ With a strong background in Full-Stack Development and a Computer Science (Hons)
 
 ## 📫 How to reach me...
 
-- Website: https://www.fran-dev.com/
+- Website: [https://www.fran-dev.com/](https://fran-dev.com/portfolio#about/contact)
 - LinkedIn: https://www.linkedin.com/in/fran-dev/
 
 
