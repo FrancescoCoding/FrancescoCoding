@@ -1,26 +1,39 @@
-# Hi there, I'm Francesco 👨‍💻
-  <img src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47fpfvq59hnjlyn7xiles4gef7xsflcot3m1lqu7lo&amp;rid=giphy.gif&amp;ct=g" alt="vintage space GIF by US National Archives" style="width: 360px; height: 281.25px; opacity: 0;">
+# Welcome to Francesco's Hub <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="vintage space GIF by US National Archives"  align="left" style="width: 40px;">
 
-With a strong background in Full-Stack Development and a Computer Science (Hons) degree in progress, I am eager to apply my skills and knowledge to create cutting-edge web applications. I enjoy exploring new technologies and frameworks and finding creative solutions to challenging problems.
+ <!--<img src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47fpfvq59hnjlyn7xiles4gef7xsflcot3m1lqu7lo&amp;rid=giphy.gif&amp;ct=g" alt="vintage space GIF by US National Archives"  align="left" style="width: 90px; opacity: 0;"> -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV6eDdxN2hmczJxZDBhMnR4MGszMzRpdXluazRjN2NiczExcGE3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="vintage space GIF by US National Archives"  align="left" style="width: 305px; height: 281.25px; opacity: 0;">
 
-### You can find some of these projects in the profile below or my website! :)
+### I am a software dev from Italy
+> My professional focus is creating software that is not just functional, but also intuitive and beautiful. The role of proper Human-Computer Interaction (HCI) and Usability principles is often ignored in the industry, in favor of the advice of so-called design or UX experts. I aim to develop, inform, and assist companies in the path to become the standard in their domain.  
+> 
+> I focus on the fundamentals: _"Does this feel natural to use?"_, _"Who might struggle here, and why?"_, _"How do we hide complexity without dumbing it down?"_.
 
-## 💻 My skills include...
+> ~ Francesco Gruosso
 
-### Proficient:
-- HTML, CSS, JavaScript, TypeScript, C#, Java, Python, R
-- Advanced React/Redux, Vue/Vuex, ASP.NET (DIP, IoC, DI, EF), Node.js, SQL, MongoDB, Firebase etc.
-- Designing UI/UX, data flows, Figma/Miro diagrams & complex systems' architectures
-- Notion, Jira, Slack, Teams, M365
+### Development, Research, iUX
 
-### Experimenting:
-- React Native and Android Studio for mobile development
-- ChatGPT/Whisper/Eleven Labs APIs, Prompt Engineering, Dynamic prompting, AI chatbots
-- Azure Portal, Azure DevOps, Docker, Netlify, Vercel, Heroku, CORS ☠️
+## General
+- Programming independently since 2012 (industry 2022)
+- Holds a Computer Science BSc degree
+- Fluent in React and TypeScript, experience in .NET, Node, and more
+- Experienced in Git and GitHub
+- Working on my own (secret) startup
+- I treat spaghetti code like overcooked pasta... unacceptable
 
-## 📫 How to reach me...
+## Technical
+| **Frontend**          | **Backend**       | **AI & ML**            | **DevOps**           |
+|-----------------------|-------------------|------------------------|----------------------|
+| React with Redux      | ASP.NET Core      | TensorFlow             | Docker               |
+| Vue.js                | Node.js           | CNNs                   | GitHub               |
+| TypeScript            | REST APIs         | AI Classification      | Azure Services       |
+| JavaScript            | SQL               | Data Augmentation      | Google Cloud         |
+| Rust                  | Python            | Forensic Medicine AI   | Azure DevOps         |
+| Figma, Miro, Notion   | Cosmos, MongoDB   | Object Detection       | GitHub Actions       |
 
-- Website: [https://www.fran-dev.com/](https://fran-dev.com/portfolio#about/contact)
+
+## How to reach me...
+
+- Email: [hello@franwbu.com](hello@franwbu.com) 
 - LinkedIn: https://www.linkedin.com/in/fran-dev/
 
 
