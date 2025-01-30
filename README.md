@@ -1,4 +1,4 @@
-# Welcome to Francesco's Hub <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="vintage space GIF by US National Archives"  align="left" style="width: 40px;">
+# Welcome to Francesco's Hub <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="vintage space GIF by US National Archives"  align="right" style="width: 40px;">
 
  <!--<img src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47fpfvq59hnjlyn7xiles4gef7xsflcot3m1lqu7lo&amp;rid=giphy.gif&amp;ct=g" alt="vintage space GIF by US National Archives"  align="left" style="width: 90px; opacity: 0;"> -->
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV6eDdxN2hmczJxZDBhMnR4MGszMzRpdXluazRjN2NiczExcGE3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="vintage space GIF by US National Archives"  align="left" style="width: 305px; height: 281.25px; opacity: 0;">
