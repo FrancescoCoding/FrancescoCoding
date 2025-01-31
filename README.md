@@ -4,18 +4,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV6eDdxN2hmczJxZDBhMnR4MGszMzRpdXluazRjN2NiczExcGE3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="vintage space GIF by US National Archives"  align="left" style="width: 305px; height: 281.25px; opacity: 0;">
 
 ### I am a software dev from Italy
-> My professional focus is creating software that is not just functional, but also intuitive and beautiful. The role of proper Human-Computer Interaction (HCI) and Usability principles is often ignored in the industry, in favor of the advice of so-called design or UX experts. I aim to develop, inform, and assist companies in the path to become the standard in their domain.
-<br />
-<br />
-<br />
-<br />
-<br />
+> My professional focus is creating software that is not just functional, but also intuitive and beautiful. The role of proper Human-Computer Interaction (HCI) and Usability principles is often ignored in the industry, in favor of the advice of so-called design or UX experts. I aim to develop, inform, and assist companies in the path to become the standard in their domain.  
+> 
+> I focus on the fundamentals: _"Does this feel natural to use?"_, _"Who might struggle here, and why?"_, _"How do we hide complexity without dumbing it down?"_.
 
 > ~ Francesco Gruosso
 
-<!-- > I focus on the fundamentals: _"Does this feel natural to use?"_, _"Who might struggle here, and why?"_, _"How do we hide complexity without dumbing it down?"_.  -->
-
-<!-- ### Development, Research, iUX -->
+### Development, Research, iUX
 
 ## General
 - Programming independently since 2012 (industry 2022)
