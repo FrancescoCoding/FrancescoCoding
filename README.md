@@ -32,7 +32,7 @@
 - 🎓 Computer Science BSc, First Class Honours
 - ⚛️ Fluent in React, TypeScript and .NET
 - 🤖 Building production agentic systems: AI agents that manage sprints, review code, and ship features
-- 🚀 Founder of [anonfeedback.io](https://anonfeedback.io), backed by the RGU Startup Accelerator
+- 🚀 Founder of [anonfeedback.io](https://anonfeedback.io)
 
 </td>
 </tr>
@@ -44,9 +44,9 @@
 
 <img src="https://skillicons.dev/icons?i=react,angular,vue,ts,js,nextjs,astro,dotnet,cs,nodejs,python,postgres,mongodb,azure,gcp,docker,nginx,githubactions,figma&perline=10" alt="tech stack icons" />
 
-<br/><br/>
+<br/>
+<br/>
 
-</div>
 
 | **Frontend**          | **Backend**        | **AI & Agents**          | **DevOps**           |
 |-----------------------|--------------------|--------------------------|----------------------|
@@ -57,26 +57,20 @@
 | Next.js, Astro        | Python             | OpenAI & Anthropic APIs  | Azure DevOps         |
 | Figma, Miro, Notion   | Cosmos, MongoDB    | TensorFlow (CNNs)        | nginx                |
 
+</div>
+
 ## GitHub Stats
 
 <div align="center">
 
 ### 💼 Work · [@fran-comet](https://github.com/fran-comet)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fran-comet&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews&title_color=58A6FF&custom_title=COMET%20%C2%B7%20Top%20Contributor" height="200" alt="work stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fran-comet&theme=github-dark-blue&hide_border=true" height="200" alt="work streak" />
 
 <br/>
 
-<img src="https://ghchart.rshah.org/58A6FF/fran-comet" width="95%" alt="work contribution heatmap" />
+<img src="https://ghchart.rshah.org/fran-comet" width="95%" alt="work contribution heatmap" />
 <br/><br/>
-
-### 🏠 Personal · [@FrancescoCoding](https://github.com/FrancescoCoding)
-
-<img src="https://github-readme-stats.vercel.app/api?username=FrancescoCoding&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="personal stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoCoding&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="top languages" />
-
-</div>
 
 ## How to reach me
 
