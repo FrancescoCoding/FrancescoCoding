@@ -1,53 +1,89 @@
-# Welcome to Francesco's Hub <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="vintage space GIF by US National Archives"  align="right" style="width: 40px;">
+<div align="center">
 
- <!--<img src="https://media1.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif?cid=ecf05e47fpfvq59hnjlyn7xiles4gef7xsflcot3m1lqu7lo&amp;rid=giphy.gif&amp;ct=g" alt="vintage space GIF by US National Archives"  align="left" style="width: 90px; opacity: 0;"> -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV6eDdxN2hmczJxZDBhMnR4MGszMzRpdXluazRjN2NiczExcGE3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" alt="vintage space GIF by US National Archives"  align="left" style="width: 305px; height: 281.25px; opacity: 0;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Francesco%20Gruosso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Development%20%E2%80%A2%20Research%20%E2%80%A2%20AI%20Agents&descSize=18&descAlignY=52" width="100%" alt="banner" />
 
-### I am a software dev from Italy
-> My professional focus is creating software that is not just functional, but also intuitive and beautiful. The role of proper Human-Computer Interaction (HCI) and Usability principles is often ignored in the industry, in favor of the advice of so-called design or UX experts. I aim to develop, inform, and assist companies in the path to become the standard in their domain.  
-> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+AI+Developer;Building+production+agentic+systems;Founder+of+anonfeedback.io" alt="typing intro" />
+
+<br/>
+
+<a href="https://fran-dev.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://franwbu.com"><img src="https://img.shields.io/badge/Tech%20Blog-203a43?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+<a href="https://www.linkedin.com/in/fran-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:hello@franwbu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://anonfeedback.io"><img src="https://img.shields.io/badge/anonfeedback.io-6f42c1?style=for-the-badge&logo=openai&logoColor=white" alt="anonfeedback"/></a>
+
+</div>
+
+## About
+
+<table>
+<tr>
+<td width="320" valign="middle">
+<img src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif" alt="vintage space GIF by US National Archives" width="305" />
+</td>
+<td valign="top">
+
+> My professional focus is creating software that is not just functional, but also intuitive and beautiful. The role of proper Human-Computer Interaction (HCI) and Usability principles is often ignored in the industry, in favor of the advice of so-called design or UX experts. I aim to develop, inform, and assist companies in the path to become the standard in their domain.
+>
 > I focus on the fundamentals: _"Does this feel natural to use?"_, _"Who might struggle here, and why?"_, _"How do we hide complexity without dumbing it down?"_.
-
 > ~ Francesco Gruosso
 
-### Development, Research, iUX
+- 🛠️ Programming independently since 2012, in industry since 2022
+- 🎓 Computer Science BSc, First Class Honours
+- ⚛️ Fluent in React, TypeScript and .NET
+- 🤖 Building production agentic systems: AI agents that manage sprints, review code, and ship features
+- 🚀 Founder of [anonfeedback.io](https://anonfeedback.io), backed by the RGU Startup Accelerator
 
-## General
-- Programming independently since 2012 (industry 2022)
-- Holds a Computer Science BSc degree
-- Fluent in React and TypeScript, experience in .NET, Node, and more
-- Experienced in Git and GitHub
-- Working on my own (secret) startup
-- I treat spaghetti code like overcooked pasta... unacceptable
+</td>
+</tr>
+</table>
 
-## Technical
-| **Frontend**          | **Backend**       | **AI & ML**            | **DevOps**           |
-|-----------------------|-------------------|------------------------|----------------------|
-| React with Redux      | ASP.NET Core      | TensorFlow             | Docker               |
-| Vue.js                | Node.js           | CNNs                   | GitHub               |
-| TypeScript            | REST APIs         | AI Classification      | Azure Services       |
-| JavaScript            | SQL               | Data Augmentation      | Google Cloud         |
-| Rust                  | Python            | Forensic Medicine AI   | Azure DevOps         |
-| Figma, Miro, Notion   | Cosmos, MongoDB   | Object Detection       | GitHub Actions       |
+## Tech Stack
 
+<div align="center">
 
-## How to reach me...
+<img src="https://skillicons.dev/icons?i=react,angular,vue,ts,js,nextjs,astro,dotnet,cs,nodejs,python,postgres,mongodb,azure,gcp,docker,nginx,githubactions,figma&perline=10" alt="tech stack icons" />
 
-- Email: [hello@franwbu.com](hello@franwbu.com) 
-- LinkedIn: https://www.linkedin.com/in/fran-dev/
+<br/><br/>
 
+</div>
 
-<!--
-**FrancescoCoding/FrancescoCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| **Frontend**          | **Backend**        | **AI & Agents**          | **DevOps**           |
+|-----------------------|--------------------|--------------------------|----------------------|
+| React (Redux, NgRx)   | ASP.NET Core       | Claude Agent SDK         | Docker               |
+| Angular               | Node.js            | MCP                      | GitHub Actions       |
+| TypeScript            | REST APIs, SignalR | Function/tool calling    | Azure Services       |
+| Vue.js                | SQL, PostgreSQL    | Agentic workflows        | Google Cloud         |
+| Next.js, Astro        | Python             | OpenAI & Anthropic APIs  | Azure DevOps         |
+| Figma, Miro, Notion   | Cosmos, MongoDB    | TensorFlow (CNNs)        | nginx                |
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### 💼 Work · [@fran-comet](https://github.com/fran-comet)
+
+<img src="https://github-readme-stats.vercel.app/api?username=fran-comet&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews&title_color=58A6FF&custom_title=COMET%20%C2%B7%20Top%20Contributor" height="200" alt="work stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fran-comet&theme=github-dark-blue&hide_border=true" height="200" alt="work streak" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/58A6FF/fran-comet" width="95%" alt="work contribution heatmap" />
+<br/><br/>
+
+### 🏠 Personal · [@FrancescoCoding](https://github.com/FrancescoCoding)
+
+<img src="https://github-readme-stats.vercel.app/api?username=FrancescoCoding&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="personal stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoCoding&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="top languages" />
+
+</div>
+
+## How to reach me
+
+<div align="center">
+
+📫 [hello@franwbu.com](mailto:hello@franwbu.com) · [LinkedIn](https://www.linkedin.com/in/fran-dev/) · [Portfolio](https://fran-dev.com/portfolio)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
