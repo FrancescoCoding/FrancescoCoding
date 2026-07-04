@@ -50,7 +50,7 @@
 
 | **Frontend**          | **Backend**        | **AI & Agents**          | **DevOps**           |
 |-----------------------|--------------------|--------------------------|----------------------|
-| React (Redux, NgRx)   | ASP.NET Core       | Claude Agent SDK         | Docker               |
+| React (Redux)         | ASP.NET Core       | Claude Agent SDK         | Docker               |
 | Angular               | Node.js            | MCP                      | GitHub Actions       |
 | TypeScript            | REST APIs, SignalR | Function/tool calling    | Azure Services       |
 | Vue.js                | SQL, PostgreSQL    | Agentic workflows        | Google Cloud         |
