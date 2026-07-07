@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://fran-dev.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://franwbu.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://franwbu.com"><img src="https://img.shields.io/badge/Tech%20Blog-203a43?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
 <a href="https://www.linkedin.com/in/fran-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hello@franwbu.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
