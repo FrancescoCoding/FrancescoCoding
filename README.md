@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td width="320" valign="middle">
-<img src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif" alt="vintage space GIF by US National Archives" width="305" />
+<img src="assets/cas-typewriter.svg" alt="vintage space GIF by US National Archives" width="305" />
 </td>
 <td valign="top">
 
