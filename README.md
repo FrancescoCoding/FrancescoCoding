@@ -25,7 +25,9 @@
 
 I build software that is not just functional but intuitive and beautiful. The questions I keep coming back to: _"does this feel natural to use?"_, _"who might struggle here, and why?"_, _"how do we hide complexity without dumbing it down?"_
 
-Programming independently since 2012, in industry since 2022. Computer Science BSc, First Class Honours. Currently building production agentic systems, AI agents that manage sprints, review code and ship features, and running [anonfeedback.io](https://anonfeedback.io).
+[![my nomling](https://nomlings.cc/badge/FrancescoCoding?pet=buzzling&color=%233EE97F)](https://nomlings.cc/badge)
+
+Programming independently since 2012, in industry since 2022. Computer Science BSc, First Class Honours. Currently building production agentic systems, AI agents, review code, ship features, and running [anonfeedback.io](https://anonfeedback.io) and [nomlings.cc](https://nomlings.cc).
 
 <samp>Selected work with live demos lives on the [portfolio](https://franwbu.com/portfolio).</samp>
 
